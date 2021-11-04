@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/Gako3113/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Gako3113&theme=vue-dark&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Gako3113&theme=vue-dark&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/Gako3113/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gako3113&theme=vue-dark&show_icons=true&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gako3113&theme=vue-dark" />
 </a>
