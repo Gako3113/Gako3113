@@ -15,10 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/Gako3113/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gako3113&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/Gako3113/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gako3113&repo=convoychat" />
-</a>
+[![Gako3113's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gako3113&theme=vue-dark&show_icons=true)](https://github.com/Gako3113/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gako3113&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/Gako3113/github-readme-stats)
 
