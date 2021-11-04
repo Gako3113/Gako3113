@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/Gako3113/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Gako3113&count_private=true&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gako3113&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/Gako3113/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gako3113" />
+<a href="https://github.com/Gako3113/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gako3113&repo=convoychat" />
 </a>
+
